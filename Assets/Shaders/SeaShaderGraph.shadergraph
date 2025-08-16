@@ -278,20 +278,6 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "078ff86de82b43b9941249771bc39fc0"
-                },
-                "m_SlotId": 1
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "cee6a8d39d6e48528e7d1129bc09361e"
-                },
-                "m_SlotId": 1226293967
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
                     "m_Id": "07b46cbebe3c4e609a3dd01213e88381"
                 },
                 "m_SlotId": 2
@@ -2170,7 +2156,7 @@
     "m_ObjectId": "22ad342388a9449598def328615c61b1",
     "m_Title": "Depth System ",
     "m_Position": {
-        "x": 3499.000244140625,
+        "x": 3498.999755859375,
         "y": 1727.0
     }
 }
@@ -2428,8 +2414,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 4955.00048828125,
-            "y": 2581.000244140625,
+            "x": 4958.0,
+            "y": 2606.000244140625,
             "width": 128.0,
             "height": 94.0
         }
@@ -4470,8 +4456,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 4945.00048828125,
-            "y": 2479.000244140625,
+            "x": 4948.0,
+            "y": 2504.000244140625,
             "width": 138.0,
             "height": 77.0
         }
@@ -4502,8 +4488,8 @@
     "m_ObjectId": "966504ac517543b19ccda9338f97b236",
     "m_Title": "Wave Function 2",
     "m_Position": {
-        "x": 1227.0001220703125,
-        "y": 603.0000610351563
+        "x": 1226.999755859375,
+        "y": 603.0
     }
 }
 
@@ -4696,8 +4682,8 @@
     "m_ObjectId": "9aae0b55def74ae3b1797f6e947f6d7e",
     "m_Title": "Wave Function 1",
     "m_Position": {
-        "x": 1227.0001220703125,
-        "y": -197.00015258789063
+        "x": 1226.999755859375,
+        "y": -196.999755859375
     }
 }
 
@@ -4975,7 +4961,7 @@
     "m_ObjectId": "a931ae4bab4f42aaa63eaddb00ac5c93",
     "m_Title": "Horizon Color",
     "m_Position": {
-        "x": 3768.000244140625,
+        "x": 3767.999755859375,
         "y": 2259.0
     }
 }
@@ -5508,8 +5494,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 5182.00048828125,
-            "y": 2479.000244140625,
+            "x": 5185.0,
+            "y": 2504.000244140625,
             "width": 130.0,
             "height": 118.0
         }
@@ -6197,8 +6183,8 @@
     "m_ObjectId": "da708838a4ba47b39ab606b985ca209b",
     "m_Title": "Underwater Color",
     "m_Position": {
-        "x": 4720.00048828125,
-        "y": 2420.0
+        "x": 4722.99951171875,
+        "y": 2445.0
     }
 }
 
@@ -6681,9 +6667,9 @@
         "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 4745.00048828125,
-            "y": 2581.000244140625,
-            "width": 118.99951171875,
+            "x": 4748.0,
+            "y": 2606.000244140625,
+            "width": 119.0,
             "height": 77.0
         }
     },
