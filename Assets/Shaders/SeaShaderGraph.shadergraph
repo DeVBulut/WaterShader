@@ -192,6 +192,7 @@
         {
             "m_Id": "aae346242e9847c3accd719432a047a9"
 <<<<<<< HEAD
+<<<<<<< HEAD
         },
         {
             "m_Id": "d063c06b773a4c799a312301338a5cf7"
@@ -232,6 +233,8 @@
             "m_Id": "966504ac517543b19ccda9338f97b236"
 =======
 >>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
+=======
+>>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
         }
     ],
     "m_GroupDatas": [],
@@ -261,6 +264,7 @@
             "m_InputSlot": {
                 "m_Node": {
                     "m_Id": "98c784c0ec384e238b8756dcbe096f5a"
+<<<<<<< HEAD
                 },
                 "m_SlotId": 0
             }
@@ -275,6 +279,8 @@
             "m_InputSlot": {
                 "m_Node": {
                     "m_Id": "cee6a8d39d6e48528e7d1129bc09361e"
+=======
+>>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
                 },
                 "m_SlotId": 1226293967
             }
@@ -1956,6 +1962,7 @@
 {
     "m_SGVersion": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "22ad342388a9449598def328615c61b1",
     "m_Title": "Depth System ",
@@ -1967,6 +1974,8 @@
 
 {
     "m_SGVersion": 0,
+=======
+>>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
 =======
 >>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
     "m_Type": "UnityEditor.ShaderGraph.MultiplyNode",
@@ -4083,6 +4092,7 @@
 {
     "m_SGVersion": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "m_Type": "UnityEditor.ShaderGraph.ScreenPositionMaterialSlot",
     "m_ObjectId": "9442d8f046ad4cd09f24d2cfe83f4ed1",
     "m_Id": 0,
@@ -4158,6 +4168,8 @@
 
 {
     "m_SGVersion": 0,
+=======
+>>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
 =======
 >>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
@@ -4575,6 +4587,7 @@
 {
     "m_SGVersion": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "a931ae4bab4f42aaa63eaddb00ac5c93",
     "m_Title": "Horizon Color",
@@ -4586,6 +4599,8 @@
 
 {
     "m_SGVersion": 0,
+=======
+>>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
 =======
 >>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
@@ -5268,6 +5283,7 @@
 {
     "m_SGVersion": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "c9661b2fa7ee4ed39e52381fd79cbb3c",
     "m_Id": 0,
@@ -5307,6 +5323,8 @@
 
 {
     "m_SGVersion": 0,
+=======
+>>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
 =======
 >>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
     "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
@@ -5633,6 +5651,7 @@
 {
     "m_SGVersion": 0,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "d8028a390bce4bee872ba5831fa65f3c",
     "m_Id": 1,
@@ -5668,6 +5687,8 @@
 
 {
     "m_SGVersion": 0,
+=======
+>>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
 =======
 >>>>>>> parent of 5d23605 (Shader Graph Grouping & Underwater Alpha Color)
     "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
