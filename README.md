@@ -2,18 +2,9 @@ Water Shader (Unity URP)
 
 A stylized, Shader Graph–based water shader for Unity URP featuring refraction, depth blending, and shoreline foam.
 
-<div align="center">
-
-
-
-
-
-
-
-
-</div>
 Showcase
 <div align="center"> <img src="/Resources/showcase_live_demo.gif" width="800"> </div>
+
 Shader Graph Preview
 <div align="center"> <img src="/Resources/showcase_shaders.png" width="900"> </div>
 Features
