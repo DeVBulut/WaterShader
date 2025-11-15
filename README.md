@@ -1,6 +1,6 @@
 # 🌊 Water Shader (Unity URP)
 
-A stylized water shader for Unity's Universal Render Pipeline with refraction, depth-based colors, and shoreline foam.
+A high-quality, customizable water shader built with Shader Graph for Unity's Universal Render Pipeline. Features realistic depth transitions, underwater refraction effects, and procedural foam generation—perfect for stylized games and environments.
 
 ---
 
