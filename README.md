@@ -1,73 +1,68 @@
-🌊 Water Shader (Unity URP)
+Water Shader (Unity URP)
 
-A custom Shader Graph–based stylized water shader for Unity URP.
-Built to support refraction, depth-based color blending, shoreline foam, and wave-driven distortion, all while remaining lightweight and game-ready.
+A stylized, Shader Graph–based water shader for Unity URP featuring refraction, depth blending, and shoreline foam.
 
-![Video Showcase](/Resources/showcase_live_demo.gif)
+<div align="center">
 
-![URP Shader Graph](/Resources/showcase_shaders.png)
 
-✨ Features
-✔ Stylized Color Blending
 
-Depth-based color transition lets shallow water fade into warm hues while deep areas shift into cooler tones.
 
-✔ Screen-Space Refraction
 
-Distorts the underlying geometry with:
 
-Refraction Scale
 
-Distortion Speed
 
-Distortion Strength
+</div>
+Showcase
+<div align="center"> <img src="/Resources/showcase_live_demo.gif" width="800"> </div>
+Shader Graph Preview
+<div align="center"> <img src="/Resources/showcase_shaders.png" width="900"> </div>
+Features
+Stylized Depth-Based Color Blending
 
-All controllable via exposed material params.
+Smooth transition between shallow and deep areas, giving the water a clean stylized look:
 
-✔ Shoreline Foam
+Shallow → lighter hues
 
-Foam fades naturally as the camera approaches the water surface and interacts with scene depth.
+Deep → darker tones
 
-✔ Lightweight Performance
+Screen-Space Refraction
 
-The shader is authored entirely in Shader Graph—no custom HLSL needed—making it:
+Adjustable refraction parameters exposed in the material:
 
-URP-friendly
+Refraction scale
 
-Mobile/VR compatible
+Distortion speed
 
-Easy to modify
+Distortion strength
 
-✔ Fully Parametric
+Ideal for both stylized and semi-realistic water surfaces.
 
-All major effects are adjustable in the Inspector:
+Shoreline Foam
 
-Wave frequency & speed
+Foam intensity responds naturally to:
 
-Foam intensity
+Scene depth
 
-Shallow/Deep water color
+Viewer distance
 
-Fade distance
+Shore proximity
 
-Refraction behavior
+Produces clean shoreline roll-off without any real surf simulation.
 
-Surface UV distortion
+How to Use
+1. Import `Water.shadergraph` and the WaveUV subgraph.
+2. Create a Material using the water shader.
+3. Apply to a plane, water mesh, or custom geometry.
+4. Adjust refraction, depth fade, foam, and color parameters in the Inspector.
 
-🛠 How to Use
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWIwMzZlNWQzMjVkdXZjbG0yZXQ4Z2Z6cWU2eXFiZTZqd3ZicWZlOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xKaR836UJOYeOc/giphy.gif" width="200">
 
-Import the WaterShader.shadergraph file.
+<em><b>Built with Unity, Shader Graph, and way too much tweaking.</b></em>
 
-Create a new Material and assign the shader.
+</div>
+<div align="center">
 
-Apply to a Plane or Water Mesh.
+Star the repo if you found it useful.
+Maintained by @DeVBulut
 
-Tweak:
-
-Colors
-
-Wave speed & scale
-
-Refraction strength
-
-Depth fade
+</div>
