@@ -3,9 +3,9 @@
 A custom Shader Graph–based stylized water shader for Unity URP.
 Built to support refraction, depth-based color blending, shoreline foam, and wave-driven distortion, all while remaining lightweight and game-ready.
 
-![Video Showcase](/resources/showcase_live_demo.mp4)
+![Video Showcase](/Resources/showcase_live_demo.mp4)
 
-![URP Shader Graph](/resources/showcase_shaders.png)
+![URP Shader Graph](/Resources/showcase_shaders.png)
 
 ✨ Features
 ✔ Stylized Color Blending
